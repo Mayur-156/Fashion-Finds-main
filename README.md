@@ -124,13 +124,3 @@ GitHub Profile
 
 ---
 
-### ✅ Next Step:
-Copy and paste the above content into a file named `README.md` inside your GitHub repository. You can also add screenshots (stored in a `screenshots/` folder) and update the markdown with:
-
-```markdown
-## 🖼 Screenshots
-
-| Home Page              | Product Listing           |
-|------------------------|---------------------------|
-| ![](screenshots/home.png) | ![](screenshots/products.png) |
-
